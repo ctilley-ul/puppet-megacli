@@ -1,4 +1,4 @@
-# @summary A short summary of the purpose of this class
+# Main class includes the install class.
 #
 # This class manages the megacli package on RedHat base distros
 # and includes all other classes
@@ -18,6 +18,9 @@
 #
 # @param package_version
 #   Specifies the package version to install
+#
+# @example
+#   include megacli
 #   
 class megacli (
   String $package_ensure,

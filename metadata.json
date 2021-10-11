@@ -1,10 +1,11 @@
 {
   "name": "ctilley-megacli",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "ctilley",
-  "summary": "",
+  "summary": "Installs MegaCLI package.",
   "license": "Apache-2.0",
-  "source": "",
+  "source": "https://github.com/ctilley-ul/puppet-megacli",
+  "project_page": "https://github.com/ctilley-ul/puppet-megacli",
   "dependencies": [
 
   ],

@@ -1,9 +1,5 @@
-# @summary A short summary of the purpose of this class
+# This class installs the package if it does not yet already exist.
 #
-# A description of what this class does
-#
-# @example
-#   include megacli::install
 class megacli::install {
 
   if $megacli::package_manage {
