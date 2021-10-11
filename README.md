@@ -5,12 +5,10 @@
 
 1. [Module Description](#module-description)
 2. [Setup - The basics of getting started with megacli](#setup)
-    * [What megacli affects](#what-megacli-affects)
-    * [Setup requirements](#setup-requirements)
     * [Beginning with megacli](#beginning-with-megacli)
-3. [Usage - Configuration options and additional functionality](#usage)
-4. [Limitations - OS compatibility, etc.](#limitations)
-5. [Development - Guide for contributing to the module](#development)
+3. [Limitations - OS compatibility, etc.](#limitations)
+4. [Development - Guide for contributing to the module](#development)
+5. [Contributors](#contributors)
 
 ## Module Description
 
