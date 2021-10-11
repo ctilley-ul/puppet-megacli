@@ -1,0 +1,6 @@
+---
+megacli::package_ensure: present
+megacli::package_file: 'MegaCli-8.07.14-1.noarch.rpm'
+megacli::package_manage: true
+megacli::package_name: [ 'megacli' ]
+megacli::package_version: '8.07.14'
